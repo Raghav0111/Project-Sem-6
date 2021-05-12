@@ -1,1 +1,1 @@
-# Project-Sem-6
+#This is a project website for ptu users to interact with anybody.
